@@ -1,0 +1,19 @@
+{
+  "name": "block-chain",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node dev.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "block-chain"
+  },
+  "author": "duc",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "express": "^4.17.1"
+  }
+}
